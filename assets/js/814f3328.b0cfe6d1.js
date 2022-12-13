@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"React \u4e3a\u4ec0\u4e48\u653e\u5f03\u4e86 FC \u5199\u6cd5","permalink":"/blog/react_fc"},{"title":"Node18\u66f4\u65b0\u4e86\u4ec0\u4e48","permalink":"/blog/node_version_18"}]}')}}]);

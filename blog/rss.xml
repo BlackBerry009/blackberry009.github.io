@@ -4,10 +4,17 @@
         <title>BlackBerry's Site Blog</title>
         <link>https://blackberry009.github.io/blog</link>
         <description>BlackBerry's Site Blog</description>
-        <lastBuildDate>Thu, 08 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[React 为什么放弃了 FC 写法]]></title>
+            <link>https://blackberry009.github.io/blog/react_fc</link>
+            <guid>react_fc</guid>
+            <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+            <category>react</category>
+        </item>
         <item>
             <title><![CDATA[Node18更新了什么]]></title>
             <link>https://blackberry009.github.io/blog/node_version_18</link>
